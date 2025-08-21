@@ -100,38 +100,41 @@ npm install
 
 You will need to start all services in separate terminals:
 ```bash
-Start the Database:
+# Start the Database:
 # From the root directory
 docker-compose up -d
 
-Start the AI Model:
+# Start the AI Model:
 # Bash
 ollama run llama3:8b
 
-Start the Backend Server:
-#Bash
+# Start the Backend Server:
+# Bash
 # From the backend directory, with .venv active
 uvicorn app.main:app --reload
 
-Start the Frontend Server:
+# Start the Frontend Server:
 # Bash
 # From the frontend directory
 npm run dev
 ```
 Access the application at http://localhost:3000.
-### 📸 Screenshots
-(Replace these placeholders with your own screenshots!)
-Login & Signup Page
+## 📸 Screenshots
+
+#### Login & Signup Page
 ![alt text](https://via.placeholder.com/600x350.png?text=Add+Login+Page+Screenshot)
-Main Upload Interface
+#### Main Upload Interface
 ![alt text](https://via.placeholder.com/600x350.png?text=Add+Upload+Page+Screenshot)
-Interactive Quiz Session
+#### Interactive Quiz Session
 ![alt text](https://via.placeholder.com/600x350.png?text=Add+Quiz+Page+Screenshot)
-Detailed Results Page
+#### Detailed Results Page
 ![alt text](https://via.placeholder.com/600x350.png?text=Add+Results+Page+Screenshot)
 
 👤 Contact
 M Deeraj Rao
-LinkedIn
-GitHub
 Email
+
+*   [LinkedIn](https://www.linkedin.com/in/mdeerajdrao/)
+*   [GitHub](https://github.com/MDDR2K4/)
+*   [Instagram](https://www.instagram.com/dxxrxj/)
+
