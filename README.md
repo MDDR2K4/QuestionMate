@@ -72,10 +72,9 @@ To run this project locally, you will need to have the following prerequisite so
 ```bash
 git clone https://github.com/MDDR2K4/QuestionMate.git
 cd QuestionMate
-
-2. Backend Setup
-code
-Bash
+```
+### 2. Backend Setup
+```bash
 # Navigate to the backend directory
 cd backend
 
@@ -88,37 +87,39 @@ pip install -r requirements.txt
 
 # Create a .env file and add your Supabase keys for file storage
 # (Note: This is optional if you skip the cloud storage part)
-3. Frontend Setup
-code
-Bash
+```
+### 3. Frontend Setup
+```bash
 # Navigate to the frontend directory
 cd frontend
 
 # Install JavaScript dependencies
 npm install
-4. Running the Application
+```
+### 4. Running the Application
+
 You will need to start all services in separate terminals:
+```bash
 Start the Database:
-code
-Bash
 # From the root directory
 docker-compose up -d
+
 Start the AI Model:
-code
-Bash
+# Bash
 ollama run llama3:8b
+
 Start the Backend Server:
-code
-Bash
+#Bash
 # From the backend directory, with .venv active
 uvicorn app.main:app --reload
+
 Start the Frontend Server:
-code
-Bash
+# Bash
 # From the frontend directory
 npm run dev
+```
 Access the application at http://localhost:3000.
-📸 Screenshots
+### 📸 Screenshots
 (Replace these placeholders with your own screenshots!)
 Login & Signup Page
 ![alt text](https://via.placeholder.com/600x350.png?text=Add+Login+Page+Screenshot)
@@ -128,6 +129,7 @@ Interactive Quiz Session
 ![alt text](https://via.placeholder.com/600x350.png?text=Add+Quiz+Page+Screenshot)
 Detailed Results Page
 ![alt text](https://via.placeholder.com/600x350.png?text=Add+Results+Page+Screenshot)
+
 👤 Contact
 M Deeraj Rao
 LinkedIn
