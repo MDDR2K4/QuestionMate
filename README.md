@@ -98,21 +98,22 @@ npm install
 ```
 ### 4. Running the Application
 
-You will need to start all services in separate terminals:
+You will need to start all services in 4 separate terminals:
 ```bash
+# 1.
 # Start the Database:
 # From the root directory
 docker-compose up -d
-
+# 2.
 # Start the AI Model:
 # Bash
 ollama run llama3:8b
-
+# 3.
 # Start the Backend Server:
 # Bash
 # From the backend directory, with .venv active
 uvicorn app.main:app --reload
-
+# 4.
 # Start the Frontend Server:
 # Bash
 # From the frontend directory
