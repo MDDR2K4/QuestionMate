@@ -1,7 +1,7 @@
 # 🤖 QuestionMate - Your Personal AI Study Assistant
 
 <p align="center">
-  [![Watch the video](https://raw.githubusercontent.com/MDDR2K4/QuestionMate/main/images/thumbnail.jpg)](https://raw.githubusercontent.com/MDDR2K4/QuestionMate/main/assets/video.mp4)
+  [![Watch the video](https://raw.githubusercontent.com/MDDR2K4/QuestionMate/main/images/thumbnail.png)](https://raw.githubusercontent.com/MDDR2K4/QuestionMate/main/assets/video.mp4)
   <img src=""C:\Users\M DEERAJ\OneDrive\Desktop\QuestionMate\Screenshot 2025-08-24 125608.png"" alt="QuestionMate Application Demo">
 </p>
 
