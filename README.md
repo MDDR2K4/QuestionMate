@@ -124,7 +124,7 @@ Access the application at http://localhost:3000.
 ## 📸 Screenshots
 
 #### Login & Signup Page
-![alt text](https://via.placeholder.com/600x350.png?text=Add+Login+Page+Screenshot)
+![alt text](images/thumbnail.png/600x350.png?text=Add+Login+Page+Screenshot)
 #### Main Upload Interface
 ![alt text](https://via.placeholder.com/600x350.png?text=Add+Upload+Page+Screenshot)
 #### Interactive Quiz Session
