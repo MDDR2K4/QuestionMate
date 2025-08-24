@@ -1,9 +1,8 @@
 # 🤖 QuestionMate - Your Personal AI Study Assistant
 
 <p align="center">
- # Demo Video (🤖 click to download 👇🏽)
- 
-[![Watch the Demo Video](images/thumbnail.png)](https://github.com/MDDR2K4/QuestionMate/raw/main/QuestionM_Demo.mp4)
+
+![Project Demo GIF](images/Demo.gif)
 </p>
 
 **QuestionMate** is a full-stack AI web application designed to be the ultimate study partner for students preparing for placements and exams. It transforms any study material—be it a PDF textbook, a Word document, or even an image of lecture notes—into a dynamic and interactive quiz session, helping users master their content through active recall and continuous practice.
@@ -42,6 +41,12 @@ After finishing a quiz, users are presented with a comprehensive results page th
 -   The ability to **export the entire quiz as a PDF** for offline study.
 
 ---
+
+<p align="center">
+ # Demo Video (🤖 click to download full video👇🏽)
+ 
+[![Watch the Demo Video](images/thumbnail.png)](https://github.com/MDDR2K4/QuestionMate/raw/main/QuestionM_Demo.mp4)
+</p>
 
 ## 🛠️ Technology Stack
 
