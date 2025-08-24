@@ -1,8 +1,8 @@
-# 🤖 QuestionMate - Your Personal AI Study Assistant
+<p align="center"> # 🤖 QuestionMate - Your Personal AI Study Assistant</p>
 
 <p align="center">
- ### Demo
-
+### Demo 
+ (🤖 click to download 👇🏽)
 [![Watch the Demo Video](images/thumbnail.png)](https://github.com/MDDR2K4/QuestionMate/raw/main/QuestionM_Demo.mp4)
 </p>
 
