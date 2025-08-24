@@ -1,8 +1,8 @@
 # 🤖 QuestionMate - Your Personal AI Study Assistant
 
 <p align="center">
-  [![Watch the video](https://raw.githubusercontent.com/MDDR2K4/QuestionMate/main/images/thumbnail.png)](https://raw.githubusercontent.com/MDDR2K4/QuestionMate/main/QuestionM_Demo.mp4)
-  <img src=""C:\Users\M DEERAJ\OneDrive\Desktop\QuestionMate\images\thumbnail.png"" alt="QuestionMate Application Demo">
+  [![Watch the video](images/thumbnail.png)](QuestionM_Demo.mp4)
+  <img src="C:\Users\M DEERAJ\OneDrive\Desktop\QuestionMate\images\thumbnail.png" alt="QuestionMate Application Demo">
 </p>
 
 **QuestionMate** is a full-stack AI web application designed to be the ultimate study partner for students preparing for placements and exams. It transforms any study material—be it a PDF textbook, a Word document, or even an image of lecture notes—into a dynamic and interactive quiz session, helping users master their content through active recall and continuous practice.
@@ -124,17 +124,22 @@ Access the application at http://localhost:3000.
 ## 📸 Screenshots
 
 #### Login & Signup Page
-![alt text](images/thumbnail.png/600x350.png?text=Add+Login+Page+Screenshot)
+![Login & Signup Page](images/loginpage.png)
+![Login & Signup Page](images/signup.png)
 #### Main Upload Interface
-![alt text](https://via.placeholder.com/600x350.png?text=Add+Upload+Page+Screenshot)
+![Main Upload Interface](images/file_upload.png)
 #### Interactive Quiz Session
-![alt text](https://via.placeholder.com/600x350.png?text=Add+Quiz+Page+Screenshot)
+![Interactive Quiz Session](images/loading.png)
+![Interactive Quiz Session](images/QuizInterface.png)
 #### Detailed Results Page
-![alt text](https://via.placeholder.com/600x350.png?text=Add+Results+Page+Screenshot)
+![Detailed Results Page](images/result1.png)
+![Detailed Results Page](images/result2.png)
+#### PDF Exporter
+![PDF Exporter, Exported file](images/exportedPDF.png)
 
-👤 Contact
-M Deeraj Rao
-Email
+### 👤 Contact
+#### M Deeraj Rao
+#### Email : mdeerajdrao@gmail.com
 
 *   [LinkedIn](https://www.linkedin.com/in/mdeerajdrao/)
 *   [GitHub](https://github.com/MDDR2K4/)
